@@ -103,5 +103,6 @@ revoke all on function public.receive_inquiry(uuid,jsonb,text) from public,anon,
 grant execute on function public.receive_inquiry(uuid,jsonb,text) to service_role;
 
 insert into storage.buckets(id,name,public,file_size_limit,allowed_mime_types) values('portfolio-media','portfolio-media',false,4194304,array['image/webp','image/jpeg','image/png','application/pdf','video/mp4']),('quote-attachments','quote-attachments',false,4194304,array['application/pdf','image/jpeg','image/png']) on conflict(id) do nothing;
-create policy portfolio_storage_read on storage.objects for select to anon,authenticated using(bucket_id='portfolio-media' and exists(select 1 from public.media_library m where m.path=name));
+create policy portfolio_storage_read on storage.objects for select to anon,authenticated using(bucket_id='portfolio-media' and exists(select 1 from public.media_library m where m.path=storage.objects.name));
 create policy portfolio_storage_admin on storage.objects for all to authenticated using(bucket_id in('portfolio-media','quote-attachments') and (select private.is_admin())) with check(bucket_id in('portfolio-media','quote-attachments') and (select private.is_admin()));
+
