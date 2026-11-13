@@ -1,0 +1,20 @@
+import {test} from 'node:test';import assert from 'node:assert/strict';import fs from 'node:fs';import {PGlite} from '@electric-sql/pglite';
+test('PostgreSQL schema enforces private drafts, admin authorization, snapshots and contact isolation',async()=>{
+ const pg=new PGlite();await pg.exec(`create role anon;create role authenticated;create role service_role bypassrls;create schema auth;create table auth.users(id uuid primary key);create function auth.uid() returns uuid language sql stable as $$select nullif(current_setting('request.jwt.claim.sub',true),'')::uuid$$;grant usage on schema auth to anon,authenticated,service_role;grant execute on function auth.uid() to anon,authenticated,service_role;create schema storage;create table storage.buckets(id text primary key,name text,public boolean,file_size_limit bigint,allowed_mime_types text[]);create table storage.objects(id uuid default gen_random_uuid(),bucket_id text,name text);alter table storage.objects enable row level security;grant usage on schema storage to anon,authenticated,service_role;grant all on storage.objects to authenticated;grant select on storage.objects to anon;`);
+ await pg.exec(fs.readFileSync('supabase/migrations/20261026030816_portfolio_studio.sql','utf8'));
+ const admin='11111111-1111-4111-8111-111111111111',stranger='22222222-2222-4222-8222-222222222222',id='33333333-3333-4333-8333-333333333333';
+ await pg.exec(`insert into auth.users values('${admin}'),('${stranger}');insert into public.authorized_admins(user_id) values('${admin}');set role authenticated;select set_config('request.jwt.claim.sub','${stranger}',false);`);
+ assert.equal((await pg.query('select * from public.content_items')).rows.length,0);
+ await assert.rejects(pg.query(`insert into public.content_items(kind,slug,draft) values('services','hack','{}')`));
+ await pg.exec(`reset role;set role authenticated;select set_config('request.jwt.claim.sub','${admin}',false);`);
+ await pg.query(`select public.save_content($1,'services','test-service',$2,0,null)`,[id,JSON.stringify({title:'Service',secretDraft:'not public'})]);
+ await pg.query(`update public.content_items set published=$1 where id=$2`,[JSON.stringify({title:'Published service'}),id]);
+ await pg.exec('reset role;set role anon');
+ await assert.rejects(pg.query('select draft from public.content_items'));
+ const snapshot=await pg.query<any>('select published from public.published_content');assert.equal(snapshot.rows[0].published.title,'Published service');assert.equal(snapshot.rows[0].published.secretDraft,undefined);
+ await assert.rejects(pg.query('select * from public.quote_requests'));await assert.rejects(pg.query(`select public.receive_inquiry(gen_random_uuid(),'{}','x')`));
+ await pg.exec(`reset role;set role authenticated;select set_config('request.jwt.claim.sub','${admin}',false);`);
+ await assert.rejects(pg.query(`insert into public.content_items(kind,slug,draft,published) values('projects','invalid','{}','{"title":"Invalid"}')`));
+ await pg.query(`update public.content_items set archived=true where id=$1`,[id]);await pg.exec('reset role;set role anon');assert.equal((await pg.query('select * from public.published_content')).rows.length,0);
+ await pg.close();
+});

@@ -1,0 +1,1461 @@
+{
+  "content": [
+    {
+      "kind": "projects",
+      "slug": "services-publics",
+      "position": 3,
+      "draft": {
+        "title": "Services Publics",
+        "category": "UX/UI",
+        "categories": [
+          "UX/UI",
+          "Identité"
+        ],
+        "summary": "Un écosystème de services administratifs, du web au mobile.",
+        "cover": "/media/129150bd60fa6ae0a2ad233646e65365",
+        "gallery": [
+          {
+            "image": "/media/d69e491430daf637f841cbd7b590e69d",
+            "alt": "Services Publics — Accueil"
+          },
+          {
+            "image": "/media/129150bd60fa6ae0a2ad233646e65365",
+            "alt": "Services Publics — sp  APP"
+          },
+          {
+            "image": "/media/1ad4019b8e6dffec2db43bdbb7bdf5a5",
+            "alt": "Services Publics — TELEPHONE"
+          },
+          {
+            "image": "/media/dda06b4100bdcd8d62f9193f9bb8a983",
+            "alt": "Services Publics — Login"
+          }
+        ],
+        "context": "Programme de services numériques administratifs, présenté comme un projet mené au sein d’ADWA pour le MINFI dans les anciens documents.",
+        "approach": "",
+        "objectives": "",
+        "deliverables": "Identité, interfaces web/mobile, supports de communication et vidéos visibles.",
+        "results": "",
+        "role": "",
+        "client": "",
+        "year": "",
+        "projectType": "À confirmer",
+        "tools": [],
+        "featured": true,
+        "editorialApproved": false,
+        "rightsApproved": false,
+        "translationApproved": false,
+        "english": {
+          "title": "",
+          "summary": "",
+          "context": ""
+        }
+      },
+      "id": "da6173c3-be62-42ea-aa71-73a2b92c5068",
+      "published": null,
+      "archived": false,
+      "updated_at": "2026-10-26T02:58:05.456Z"
+    },
+    {
+      "kind": "projects",
+      "slug": "pmuc",
+      "position": 0,
+      "draft": {
+        "title": "PMUC",
+        "category": "Campagnes",
+        "categories": [
+          "Campagnes",
+          "Motion"
+        ],
+        "summary": "L’énergie du sport, au fil des campagnes et des rendez-vous de marque.",
+        "cover": "/media/7b80967ea24c37faac4d9fc103304dda",
+        "gallery": [
+          {
+            "image": "/media/2f1a086ac03350ac0c53a44d9f711c63",
+            "alt": "PMUC — Bon Week-end"
+          },
+          {
+            "image": "/media/7b80967ea24c37faac4d9fc103304dda",
+            "alt": "PMUC — classico"
+          },
+          {
+            "image": "/media/5454cdb033180884ae12479952d35f13",
+            "alt": "PMUC — JJ - 1"
+          },
+          {
+            "image": "/media/14780764708e579750e4b82663210d99",
+            "alt": "PMUC — jour fr match"
+          }
+        ],
+        "context": "Ensemble de créations sociales de marque, visuels sportifs, messages communautaires et déclinaisons animées PMUC.",
+        "approach": "",
+        "objectives": "",
+        "deliverables": "Affiches, kit social media, annonces de matchs et animations visibles.",
+        "results": "",
+        "role": "",
+        "client": "",
+        "year": "",
+        "projectType": "À confirmer",
+        "tools": [],
+        "featured": true,
+        "editorialApproved": false,
+        "rightsApproved": false,
+        "translationApproved": false,
+        "english": {
+          "title": "",
+          "summary": "",
+          "context": ""
+        }
+      },
+      "id": "de135a7d-f5a5-4ce5-a7cb-07e467cf0dc7",
+      "published": null,
+      "archived": false,
+      "updated_at": "2026-10-26T02:58:05.456Z"
+    },
+    {
+      "kind": "projects",
+      "slug": "homay",
+      "position": 2,
+      "draft": {
+        "title": "HOMAY",
+        "category": "Campagnes",
+        "categories": [
+          "Campagnes",
+          "Identité"
+        ],
+        "summary": "Une gamme d’enduits mise en scène à travers ses usages.",
+        "cover": "/media/5eb5f392d15b4f13d39a5dc4e54343e1",
+        "gallery": [
+          {
+            "image": "/media/49c144daa91bb617e22e0f9b93f90626",
+            "alt": "HOMAY — Logo 1"
+          },
+          {
+            "image": "/media/5eb5f392d15b4f13d39a5dc4e54343e1",
+            "alt": "HOMAY — flyers 1"
+          },
+          {
+            "image": "/media/5220f5461e208519e3f0885450a3cc99",
+            "alt": "HOMAY — flyers 2"
+          },
+          {
+            "image": "/media/213aded7a17fa566f91575758e490c08",
+            "alt": "HOMAY — flyers 4"
+          }
+        ],
+        "context": "Créations de communication pour une gamme d’enduits intérieur et extérieur.",
+        "approach": "",
+        "objectives": "",
+        "deliverables": "Flyers, modes d’application, mises en scène produits, supports textiles et kit social media.",
+        "results": "",
+        "role": "",
+        "client": "",
+        "year": "",
+        "projectType": "À confirmer",
+        "tools": [],
+        "featured": true,
+        "editorialApproved": false,
+        "rightsApproved": false,
+        "translationApproved": false,
+        "english": {
+          "title": "",
+          "summary": "",
+          "context": ""
+        }
+      },
+      "id": "757943d8-5863-47db-9fa8-c863d146a361",
+      "published": null,
+      "archived": false,
+      "updated_at": "2026-10-26T02:58:05.456Z"
+    },
+    {
+      "kind": "projects",
+      "slug": "touristique-express",
+      "position": 1,
+      "draft": {
+        "title": "Touristique Express",
+        "category": "UX/UI",
+        "categories": [
+          "UX/UI"
+        ],
+        "summary": "L’expérience de réservation de voyages, pensée pour le mobile.",
+        "cover": "/media/fac7c003d6323106b3dbed8e6f8655c8",
+        "gallery": [
+          {
+            "image": "/media/59be7f88eaded9df5bd918b261562dab",
+            "alt": "Touristique Express — touristique app"
+          },
+          {
+            "image": "/media/69a576bc1e766b0746be425309f0e097",
+            "alt": "Touristique Express — Ajouter un passager-1"
+          },
+          {
+            "image": "/media/8e12f903615815bab38d99aa92080717",
+            "alt": "Touristique Express — Aucun voyage trouvé"
+          },
+          {
+            "image": "/media/90752a143086961b0c38dd02b6afce80",
+            "alt": "Touristique Express — Confirmation de création de compte (1)"
+          }
+        ],
+        "context": "Application mobile de réservation de voyages pour Touristique Express, selon les portfolios et le CV UX/UI.",
+        "approach": "",
+        "objectives": "",
+        "deliverables": "Onboarding, recherche, réservation, passagers, paiement, confirmation et états d’erreur.",
+        "results": "",
+        "role": "",
+        "client": "",
+        "year": "",
+        "projectType": "À confirmer",
+        "tools": [],
+        "featured": true,
+        "editorialApproved": false,
+        "rightsApproved": false,
+        "translationApproved": false,
+        "english": {
+          "title": "",
+          "summary": "",
+          "context": ""
+        }
+      },
+      "id": "e14e4c3e-c339-4999-b94b-3a7f0453e5e6",
+      "published": null,
+      "archived": false,
+      "updated_at": "2026-10-26T02:58:05.456Z"
+    },
+    {
+      "kind": "projects",
+      "slug": "maty-land",
+      "position": 4,
+      "draft": {
+        "title": "Maty Land",
+        "category": "Identité",
+        "categories": [
+          "Identité"
+        ],
+        "summary": "Un univers visuel pour un restaurant de Maroua.",
+        "cover": "/media/365ad8608968ee208e6e55417808fd27",
+        "gallery": [
+          {
+            "image": "/media/3d0aa013e15d049d7d9295f93d657ed5",
+            "alt": "Maty Land — Maty-Land-logo-retenu-v1"
+          },
+          {
+            "image": "/media/fe0cb9a8bb2a8ab26776bda0622eaa6a",
+            "alt": "Maty Land — APERCU-SYSTEME"
+          },
+          {
+            "image": "/media/67968bb1c574a3eb2549ba64d15c1f9d",
+            "alt": "Maty Land — 01-cour-source"
+          },
+          {
+            "image": "/media/73a8e388cd3df053c29078c39546609b",
+            "alt": "Maty Land — 03-poulet-source"
+          }
+        ],
+        "context": "Travail d’identité pour un restaurant à Maroua ; brief et documents de conception datés d’octobre 2026.",
+        "approach": "",
+        "objectives": "",
+        "deliverables": "Logo et variantes, motifs, pictogrammes, charte PDF/PPTX, propositions de supports et scènes générées.",
+        "results": "",
+        "role": "",
+        "client": "",
+        "year": "2026",
+        "projectType": "À confirmer",
+        "tools": [],
+        "featured": true,
+        "editorialApproved": false,
+        "rightsApproved": false,
+        "translationApproved": false,
+        "english": {
+          "title": "",
+          "summary": "",
+          "context": ""
+        }
+      },
+      "id": "2c97f547-397c-4ecf-8dbe-0d5e5268232d",
+      "published": null,
+      "archived": false,
+      "updated_at": "2026-10-26T02:58:05.456Z"
+    },
+    {
+      "kind": "projects",
+      "slug": "adwa-shop",
+      "position": 5,
+      "draft": {
+        "title": "ADWA Shop",
+        "category": "UX/UI",
+        "categories": [
+          "UX/UI",
+          "Identité"
+        ],
+        "summary": "Une identité et des interfaces pour les opérations du quotidien.",
+        "cover": "/media/4224b30f5a1213b58b09d945ebcc94ca",
+        "gallery": [
+          {
+            "image": "/media/4224b30f5a1213b58b09d945ebcc94ca",
+            "alt": "ADWA Shop — adwa shop"
+          },
+          {
+            "image": "/media/b01b68c9a563fa475cdda3f3324d3c37",
+            "alt": "ADWA Shop — charte graphique"
+          },
+          {
+            "image": "/media/2bf625d00587153b5d60edc40609aa6d",
+            "alt": "ADWA Shop — Encaissement Total"
+          },
+          {
+            "image": "/media/3e11c481b5d446167d6110859eb79375",
+            "alt": "ADWA Shop — Encaisser une facture"
+          }
+        ],
+        "context": "Identité et interface mobile d’un produit nommé ADWA Shop, incluant encaissement et remboursement.",
+        "approach": "",
+        "objectives": "",
+        "deliverables": "Charte, logo, formulaires, connexion, encaissement, remboursement, rendu monnaie.",
+        "results": "",
+        "role": "",
+        "client": "",
+        "year": "",
+        "projectType": "À confirmer",
+        "tools": [],
+        "featured": true,
+        "editorialApproved": false,
+        "rightsApproved": false,
+        "translationApproved": false,
+        "english": {
+          "title": "",
+          "summary": "",
+          "context": ""
+        }
+      },
+      "id": "9f38a24e-f58a-40cb-b182-16bf8d2d0e2b",
+      "published": null,
+      "archived": false,
+      "updated_at": "2026-10-26T02:58:05.456Z"
+    },
+    {
+      "kind": "projects",
+      "slug": "equip4safety",
+      "position": 6,
+      "draft": {
+        "title": "Equip4Safety",
+        "category": "UX/UI",
+        "categories": [
+          "UX/UI",
+          "Web"
+        ],
+        "summary": "Une plateforme de recherche d’équipements aéronautiques.",
+        "cover": "/media/2fe718b5858be295100b19e2df442647",
+        "gallery": [
+          {
+            "image": "/media/2fe718b5858be295100b19e2df442647",
+            "alt": "Equip4Safety — Accueil 2 pc"
+          },
+          {
+            "image": "/media/6e82e67f5c857fb0e914e32ec1b96ed5",
+            "alt": "Equip4Safety — Dashboard user-1"
+          },
+          {
+            "image": "/media/3964b9af961d0b1de21beaee57200013",
+            "alt": "Equip4Safety — fitre en pop up"
+          },
+          {
+            "image": "/media/63175e4d8831760cdd5cb4266b5175bd",
+            "alt": "Equip4Safety — Fitre recherce"
+          }
+        ],
+        "context": "Marketplace d’équipements aéronautiques Equip4Safety, reliée à la CCAA dans le CV ; vidéo de présentation disponible.",
+        "approach": "",
+        "objectives": "",
+        "deliverables": "Accueil, recherche et filtres, fiche produit, contact vendeur, tableaux de bord et vidéo.",
+        "results": "",
+        "role": "",
+        "client": "",
+        "year": "",
+        "projectType": "À confirmer",
+        "tools": [],
+        "featured": false,
+        "editorialApproved": false,
+        "rightsApproved": false,
+        "translationApproved": false,
+        "english": {
+          "title": "",
+          "summary": "",
+          "context": ""
+        }
+      },
+      "id": "74fabfbe-d488-48dd-bb55-758971346eb1",
+      "published": null,
+      "archived": false,
+      "updated_at": "2026-10-26T02:58:05.456Z"
+    },
+    {
+      "kind": "projects",
+      "slug": "machibel-santarde",
+      "position": 7,
+      "draft": {
+        "title": "Machibel / Santardé",
+        "category": "Campagnes",
+        "categories": [
+          "Campagnes"
+        ],
+        "summary": "Compositions de produits et explorations pour la beauté.",
+        "cover": "/media/b7c70ad3dd532ddb4bfd703fcd6f708e",
+        "gallery": [
+          {
+            "image": "/media/13a3e3ee391392baec026c088a186db9",
+            "alt": "Machibel / Santardé — 530107172_122166423242436109_3219026219117542316_n.jpg_2K_202607061213"
+          },
+          {
+            "image": "/media/c378bbb8ad1f6e128ebfd62dc6d889d3",
+            "alt": "Machibel / Santardé — 87e65642-7352-49b6-a441-3b934219ebeb.jfif_2K_202607070019"
+          },
+          {
+            "image": "/media/b7c70ad3dd532ddb4bfd703fcd6f708e",
+            "alt": "Machibel / Santardé — huile essentiel"
+          },
+          {
+            "image": "/media/15b7d657c7fdd2926938515767256447",
+            "alt": "Machibel / Santardé — photo produit"
+          }
+        ],
+        "context": "Explorations et visuels de produits cosmétiques Santardé ; logo Machibel dans le dossier nommé Marichel.",
+        "approach": "",
+        "objectives": "",
+        "deliverables": "Sources produits, compositions publicitaires, déclinaisons et avant/après.",
+        "results": "",
+        "role": "",
+        "client": "",
+        "year": "",
+        "projectType": "À confirmer",
+        "tools": [],
+        "featured": false,
+        "editorialApproved": false,
+        "rightsApproved": false,
+        "translationApproved": false,
+        "english": {
+          "title": "",
+          "summary": "",
+          "context": ""
+        }
+      },
+      "id": "cf5de40a-5fa8-461a-a8d0-b90cc5fc9fa0",
+      "published": null,
+      "archived": false,
+      "updated_at": "2026-10-26T02:58:05.456Z"
+    },
+    {
+      "kind": "services",
+      "slug": "branding",
+      "position": 0,
+      "draft": {
+        "title": "Design graphique & Branding",
+        "description": "Une identité cohérente, du premier signe aux supports qui la font vivre.",
+        "deliverables": [
+          "Identité visuelle",
+          "Charte graphique",
+          "Supports de marque"
+        ],
+        "delay": "Selon le périmètre du projet",
+        "priceMode": "quote",
+        "amount": null,
+        "currency": "XAF",
+        "unit": "",
+        "options": [],
+        "relatedProjects": [
+          "maty-land"
+        ],
+        "active": true
+      },
+      "id": "ce497f84-4fe5-419f-a62b-f2143bfa686d",
+      "published": null,
+      "archived": false,
+      "updated_at": "2026-10-26T02:58:05.456Z"
+    },
+    {
+      "kind": "services",
+      "slug": "ux-ui-web",
+      "position": 1,
+      "draft": {
+        "title": "UX/UI & Web Design",
+        "description": "Des interfaces lisibles, des parcours fluides et des expériences utiles.",
+        "deliverables": [
+          "Parcours et wireframes",
+          "Maquettes d’interfaces",
+          "Prototype interactif"
+        ],
+        "delay": "Selon le périmètre du projet",
+        "priceMode": "quote",
+        "amount": null,
+        "currency": "XAF",
+        "unit": "",
+        "options": [],
+        "relatedProjects": [
+          "touristique-express"
+        ],
+        "active": true
+      },
+      "id": "40782848-1503-41f1-96af-238aca5e20e6",
+      "published": null,
+      "archived": false,
+      "updated_at": "2026-10-26T02:58:05.456Z"
+    },
+    {
+      "kind": "services",
+      "slug": "motion-video",
+      "position": 2,
+      "draft": {
+        "title": "Motion Design & Vidéo",
+        "description": "Donner du rythme et du mouvement aux idées de votre marque.",
+        "deliverables": [
+          "Storyboard",
+          "Animation",
+          "Déclinaisons vidéo"
+        ],
+        "delay": "Selon le périmètre du projet",
+        "priceMode": "quote",
+        "amount": null,
+        "currency": "XAF",
+        "unit": "",
+        "options": [],
+        "relatedProjects": [
+          "pmuc"
+        ],
+        "active": true
+      },
+      "id": "2ed3e909-5fc4-4154-91d6-72f9471d821b",
+      "published": null,
+      "archived": false,
+      "updated_at": "2026-10-26T02:58:05.456Z"
+    },
+    {
+      "kind": "services",
+      "slug": "communication-digitale",
+      "position": 3,
+      "draft": {
+        "title": "Communication digitale",
+        "description": "Une présence éditoriale et visuelle cohérente sur vos canaux.",
+        "deliverables": [
+          "Direction éditoriale",
+          "Visuels de campagne",
+          "Déclinaisons social media"
+        ],
+        "delay": "Selon le périmètre du projet",
+        "priceMode": "quote",
+        "amount": null,
+        "currency": "XAF",
+        "unit": "",
+        "options": [],
+        "relatedProjects": [
+          "homay"
+        ],
+        "active": true
+      },
+      "id": "6547dc26-8c2d-4923-84bd-39df9db4fc3a",
+      "published": null,
+      "archived": false,
+      "updated_at": "2026-10-26T02:58:05.456Z"
+    },
+    {
+      "kind": "services",
+      "slug": "immobilier",
+      "position": 4,
+      "draft": {
+        "title": "Valorisation immobilière",
+        "description": "Présenter un lieu, ses volumes et ses atouts avec des visuels soignés.",
+        "deliverables": [
+          "Retouche et mise en valeur",
+          "Présentations immobilières",
+          "Supports de commercialisation"
+        ],
+        "delay": "Selon le périmètre du projet",
+        "priceMode": "quote",
+        "amount": null,
+        "currency": "XAF",
+        "unit": "",
+        "options": [],
+        "relatedProjects": [
+          "machibel-santarde"
+        ],
+        "active": true
+      },
+      "id": "8662d6f1-5f25-4f2c-b24e-aa707eb8e62b",
+      "published": null,
+      "archived": false,
+      "updated_at": "2026-10-26T02:58:05.456Z"
+    },
+    {
+      "kind": "services",
+      "slug": "direction-creative",
+      "position": 5,
+      "draft": {
+        "title": "Direction créative & Conseil",
+        "description": "Définir une direction, clarifier un message et accompagner sa réalisation.",
+        "deliverables": [
+          "Audit créatif",
+          "Direction artistique",
+          "Accompagnement d’équipe"
+        ],
+        "delay": "Selon le périmètre du projet",
+        "priceMode": "quote",
+        "amount": null,
+        "currency": "XAF",
+        "unit": "",
+        "options": [],
+        "relatedProjects": [
+          "services-publics"
+        ],
+        "active": true
+      },
+      "id": "834423d3-912a-40ec-a948-18e687e2f187",
+      "published": null,
+      "archived": false,
+      "updated_at": "2026-10-26T02:58:05.456Z"
+    },
+    {
+      "kind": "packages",
+      "slug": "starter",
+      "position": 0,
+      "draft": {
+        "title": "Starter",
+        "description": "Poser les premières bases de votre communication.",
+        "deliverables": [
+          "Cadrage du besoin",
+          "Sélection de livrables essentiels"
+        ],
+        "priceMode": "quote",
+        "amount": null,
+        "currency": "XAF",
+        "unit": "",
+        "active": true
+      },
+      "id": "5fa7588a-b415-40aa-aef4-eccbb3c82739",
+      "published": null,
+      "archived": false,
+      "updated_at": "2026-10-26T02:58:05.456Z"
+    },
+    {
+      "kind": "packages",
+      "slug": "business",
+      "position": 1,
+      "draft": {
+        "title": "Business",
+        "description": "Construire une présence de marque cohérente.",
+        "deliverables": [
+          "Cadrage stratégique",
+          "Identité et supports coordonnés"
+        ],
+        "priceMode": "quote",
+        "amount": null,
+        "currency": "XAF",
+        "unit": "",
+        "active": true
+      },
+      "id": "a0a62310-c2c6-4ca7-abe8-f354e53ba2c1",
+      "published": null,
+      "archived": false,
+      "updated_at": "2026-10-26T02:58:05.456Z"
+    },
+    {
+      "kind": "packages",
+      "slug": "premium",
+      "position": 2,
+      "draft": {
+        "title": "Premium",
+        "description": "Accompagner un projet dans toute sa dimension créative.",
+        "deliverables": [
+          "Direction créative",
+          "Accompagnement sur mesure"
+        ],
+        "priceMode": "quote",
+        "amount": null,
+        "currency": "XAF",
+        "unit": "",
+        "active": true
+      },
+      "id": "d2a10e9f-9361-4024-a25a-36b19061cbbb",
+      "published": null,
+      "archived": false,
+      "updated_at": "2026-10-26T02:58:05.456Z"
+    },
+    {
+      "id": "e5d55116-3ad2-4657-ad79-9c716460e7f9",
+      "kind": "profile",
+      "slug": "jovite",
+      "position": 17,
+      "draft": {
+        "name": "Jovite Benga",
+        "role": "Creative Director & Digital Strategist",
+        "location": "Douala, Cameroun",
+        "email": "bengajovite1@gmail.com",
+        "phone": "+237 697 097 381",
+        "whatsapp": "https://wa.me/237697097381",
+        "linkedin": "",
+        "cv": "",
+        "portrait": "/media/1d2912a33b3eea1fcd06b72658af626a",
+        "bio": "Je suis Jovite Benga, directeur créatif et stratège digital basé à Douala. Mon parcours associe ingénierie logicielle, design et communication. J’aime donner une direction claire aux idées et les traduire en expériences visuelles cohérentes.",
+        "intro": "De l’identité de marque à l’expérience digitale, je relie la réflexion stratégique et le soin du détail.",
+        "availability": "Ouvert aux collaborations et aux opportunités professionnelles",
+        "skills": [
+          "Direction artistique",
+          "Identité visuelle",
+          "Design UX/UI",
+          "Communication digitale",
+          "Motion design",
+          "Web design"
+        ],
+        "tools": [],
+        "experiences": [
+          {
+            "company": "ADWA",
+            "role": "Design et communication digitale",
+            "period": "À préciser"
+          },
+          {
+            "company": "FKI",
+            "role": "Communication et création",
+            "period": "2021 — 2022"
+          },
+          {
+            "company": "Proximity",
+            "role": "Création graphique",
+            "period": "2020 — 2021"
+          }
+        ],
+        "education": [
+          {
+            "title": "Ingénieur en génie logiciel",
+            "school": "ENSP de Douala",
+            "year": "2019"
+          }
+        ],
+        "portraits": {
+          "atelier": "/media/fd095b5d3cd4b5a43fccdbf99a7896a3",
+          "silhouette": "/media/b78900590a2919ff2636cd45618cc8bd",
+          "studio": "/media/695217696ffc7fece1d5a69f90e27ee0",
+          "regard": "/media/a305ce74ffb6ff4bf76126a758512d53"
+        }
+      },
+      "updated_at": "2026-10-26T19:54:28.757Z"
+    },
+    {
+      "id": "b65420ec-fdf6-4599-b38d-f2f75fb83a27",
+      "kind": "pages",
+      "slug": "accueil",
+      "position": 18,
+      "draft": {
+        "title": "Accueil",
+        "seoTitle": "Jovite Benga — Creative Director & Digital Strategist",
+        "seoDescription": "Direction artistique, identité visuelle et expériences digitales. Découvrez le portfolio de Jovite Benga, basé à Douala.",
+        "locale": "fr",
+        "translationApproved": false,
+        "content": {
+          "root": {
+            "props": {}
+          },
+          "content": [
+            {
+              "type": "Hero",
+              "props": {
+                "id": "Hero-0",
+                "greeting": "Bonjour, moi c’est",
+                "title": "Jovite Benga",
+                "role": "Creative Director & Digital Strategist",
+                "description": "J’imagine des identités et des expériences digitales qui donnent du sens aux marques.",
+                "image": "/media/1d2912a33b3eea1fcd06b72658af626a"
+              }
+            },
+            {
+              "type": "Projects",
+              "props": {
+                "id": "Projects-2",
+                "title": "Une sélection de projets",
+                "description": "Identité, communication et expériences digitales."
+              }
+            },
+            {
+              "type": "Introduction",
+              "props": {
+                "id": "Introduction-1",
+                "title": "Une idée juste. Une expression singulière.",
+                "description": "De l’identité de marque à l’expérience digitale, je relie la réflexion stratégique et le soin du détail."
+              }
+            },
+            {
+              "type": "Expertises",
+              "props": {
+                "id": "Expertises-3",
+                "title": "Expertises"
+              }
+            },
+            {
+              "type": "Experience",
+              "props": {
+                "id": "Experience-4",
+                "title": "Un regard créatif. Une culture technique."
+              }
+            },
+            {
+              "type": "Services",
+              "props": {
+                "id": "Services-5",
+                "title": "Comment puis-je vous accompagner ?"
+              }
+            },
+            {
+              "type": "Contact",
+              "props": {
+                "id": "Contact-6",
+                "title": "Une idée en tête ? Parlons-en.",
+                "description": "Un projet de marque, une expérience digitale ou une opportunité de collaboration."
+              }
+            }
+          ]
+        }
+      },
+      "updated_at": "2026-10-26T20:21:43.821Z"
+    },
+    {
+      "kind": "pages",
+      "slug": "projets",
+      "draft": {
+        "title": "Des projets, des univers.",
+        "description": "Une sélection de créations, entre identité, communication et design digital.",
+        "seoTitle": "Des projets, des univers. — Jovite Benga",
+        "seoDescription": "Une sélection de créations, entre identité, communication et design digital.",
+        "locale": "fr",
+        "content": {
+          "root": {
+            "props": {}
+          },
+          "content": []
+        }
+      },
+      "id": "736f4764-c8b7-402b-a890-663adfc38120",
+      "position": 19,
+      "published": null,
+      "archived": false,
+      "updated_at": "2026-10-26T02:58:05.456Z"
+    },
+    {
+      "kind": "pages",
+      "slug": "services",
+      "draft": {
+        "title": "De l’idée à sa réalisation.",
+        "description": "Des accompagnements adaptés à votre besoin, à votre contexte et à votre ambition.",
+        "seoTitle": "De l’idée à sa réalisation. — Jovite Benga",
+        "seoDescription": "Des accompagnements adaptés à votre besoin, à votre contexte et à votre ambition.",
+        "locale": "fr",
+        "content": {
+          "root": {
+            "props": {}
+          },
+          "content": []
+        }
+      },
+      "id": "b82df01c-7984-49d1-8202-101121346198",
+      "position": 20,
+      "published": null,
+      "archived": false,
+      "updated_at": "2026-10-26T02:58:05.456Z"
+    },
+    {
+      "kind": "pages",
+      "slug": "expertises",
+      "draft": {
+        "title": "Relier le fond et la forme.",
+        "description": "Un regard transversal pour construire des expériences de marque cohérentes.",
+        "seoTitle": "Relier le fond et la forme. — Jovite Benga",
+        "seoDescription": "Un regard transversal pour construire des expériences de marque cohérentes.",
+        "locale": "fr",
+        "content": {
+          "root": {
+            "props": {}
+          },
+          "content": []
+        }
+      },
+      "id": "09d80a48-1f0d-42d6-beac-9e62575b6ad8",
+      "position": 21,
+      "published": null,
+      "archived": false,
+      "updated_at": "2026-10-26T02:58:05.456Z"
+    },
+    {
+      "kind": "pages",
+      "slug": "a-propos",
+      "draft": {
+        "title": "Créatif par regard. Ingénieur de formation.",
+        "description": "Je relie stratégie, design et technologie pour donner vie aux idées.",
+        "seoTitle": "Créatif par regard. Ingénieur de formation. — Jovite Benga",
+        "seoDescription": "Je relie stratégie, design et technologie pour donner vie aux idées.",
+        "locale": "fr",
+        "content": {
+          "root": {
+            "props": {}
+          },
+          "content": []
+        }
+      },
+      "id": "90467f5b-ad97-4823-814c-6398d1806afd",
+      "position": 22,
+      "published": null,
+      "archived": false,
+      "updated_at": "2026-10-26T02:58:05.456Z"
+    },
+    {
+      "kind": "pages",
+      "slug": "contact",
+      "draft": {
+        "title": "Faisons connaissance.",
+        "description": "Parlez-moi de votre projet, de votre équipe ou de votre prochaine idée.",
+        "seoTitle": "Faisons connaissance. — Jovite Benga",
+        "seoDescription": "Parlez-moi de votre projet, de votre équipe ou de votre prochaine idée.",
+        "locale": "fr",
+        "content": {
+          "root": {
+            "props": {}
+          },
+          "content": []
+        }
+      },
+      "id": "0d054359-6a8d-426d-915c-522ee6af718a",
+      "position": 23,
+      "published": null,
+      "archived": false,
+      "updated_at": "2026-10-26T02:58:05.456Z"
+    },
+    {
+      "kind": "settings",
+      "slug": "general",
+      "draft": {
+        "title": "Paramètres du site",
+        "siteTitle": "Jovite Benga — Portfolio",
+        "description": "Direction artistique, identité visuelle et expériences digitales. Découvrez le portfolio de Jovite Benga, basé à Douala.",
+        "accent": "#D97852",
+        "navigation": [
+          {
+            "label": "Projets",
+            "href": "/projets"
+          },
+          {
+            "label": "Services",
+            "href": "/services"
+          },
+          {
+            "label": "Expertises",
+            "href": "/expertises"
+          },
+          {
+            "label": "À propos",
+            "href": "/a-propos"
+          }
+        ],
+        "englishEnabled": false,
+        "legalPublisher": "Jovite Benga",
+        "legalAddress": "À compléter",
+        "hostingProvider": "À compléter avant publication",
+        "privacyContact": "bengajovite1@gmail.com",
+        "retentionMonths": 12,
+        "footer": "Stratégie, identité et expériences digitales."
+      },
+      "id": "7c346881-2b85-40f4-a48d-7ebebcf56ddd",
+      "position": 24,
+      "published": null,
+      "archived": false,
+      "updated_at": "2026-10-26T02:58:05.456Z"
+    },
+    {
+      "id": "e986a9e7-1f41-4369-a208-f118a18e30d3",
+      "kind": "projects",
+      "slug": "exploration-orbit",
+      "position": -3,
+      "draft": {
+        "title": "Orbite",
+        "category": "Identité",
+        "categories": [
+          "Identité"
+        ],
+        "summary": "Une exploration de la matière, de la lumière et du signe.",
+        "cover": "/media/561ff0200b82e6083401f568944004db",
+        "gallery": [],
+        "context": "",
+        "approach": "",
+        "objectives": "",
+        "deliverables": "",
+        "results": "",
+        "role": "",
+        "client": "",
+        "year": "",
+        "projectType": "concept",
+        "tools": [],
+        "featured": true,
+        "demo": true,
+        "editorialApproved": false,
+        "rightsApproved": false,
+        "translationApproved": false,
+        "english": {
+          "title": "",
+          "summary": "",
+          "context": ""
+        }
+      },
+      "updated_at": "2026-10-26T19:54:28.757Z"
+    },
+    {
+      "id": "8d07a140-c03f-40c5-8c5f-93b225b39bce",
+      "kind": "projects",
+      "slug": "exploration-sillage",
+      "position": -2,
+      "draft": {
+        "title": "Sillage",
+        "category": "UX/UI",
+        "categories": [
+          "UX/UI"
+        ],
+        "summary": "Un univers digital inspiré par le voyage et les espaces ouverts.",
+        "cover": "/media/ae8281bd4869abcbd2287523b17a5071",
+        "gallery": [],
+        "context": "",
+        "approach": "",
+        "objectives": "",
+        "deliverables": "",
+        "results": "",
+        "role": "",
+        "client": "",
+        "year": "",
+        "projectType": "concept",
+        "tools": [],
+        "featured": true,
+        "demo": true,
+        "editorialApproved": false,
+        "rightsApproved": false,
+        "translationApproved": false,
+        "english": {
+          "title": "",
+          "summary": "",
+          "context": ""
+        }
+      },
+      "updated_at": "2026-10-26T19:54:28.757Z"
+    },
+    {
+      "id": "f1448a01-5522-498a-acb3-390d36158b87",
+      "kind": "projects",
+      "slug": "exploration-echo",
+      "position": -1,
+      "draft": {
+        "title": "Écho",
+        "category": "Motion",
+        "categories": [
+          "Motion"
+        ],
+        "summary": "Une étude de rythme, de reflets et de mouvement.",
+        "cover": "/media/1ab9003647a9f871955684f359af7bc3",
+        "gallery": [],
+        "context": "",
+        "approach": "",
+        "objectives": "",
+        "deliverables": "",
+        "results": "",
+        "role": "",
+        "client": "",
+        "year": "",
+        "projectType": "concept",
+        "tools": [],
+        "featured": true,
+        "demo": true,
+        "editorialApproved": false,
+        "rightsApproved": false,
+        "translationApproved": false,
+        "english": {
+          "title": "",
+          "summary": "",
+          "context": ""
+        }
+      },
+      "updated_at": "2026-10-26T19:54:28.757Z"
+    }
+  ],
+  "media": [
+    {
+      "id": "1d2912a33b3eea1fcd06b72658af626a",
+      "name": "Portrait cinéma de Jovite Benga",
+      "alt": "Portrait cinéma de Jovite Benga",
+      "mime": "image/webp",
+      "bytes": 99630,
+      "path": "1d2912a33b3eea1fcd06b72658af626a.webp",
+      "created_at": "2026-10-26T02:57:46.411Z"
+    },
+    {
+      "id": "129150bd60fa6ae0a2ad233646e65365",
+      "name": "Services Publics — couverture",
+      "alt": "Services Publics — couverture",
+      "mime": "image/webp",
+      "bytes": 226280,
+      "path": "129150bd60fa6ae0a2ad233646e65365.webp",
+      "created_at": "2026-10-26T02:57:47.592Z"
+    },
+    {
+      "id": "d69e491430daf637f841cbd7b590e69d",
+      "name": "Services Publics — Accueil.jpg",
+      "alt": "Services Publics — Accueil.jpg",
+      "mime": "image/webp",
+      "bytes": 147644,
+      "path": "d69e491430daf637f841cbd7b590e69d.webp",
+      "created_at": "2026-10-26T02:57:47.958Z"
+    },
+    {
+      "id": "1ad4019b8e6dffec2db43bdbb7bdf5a5",
+      "name": "Services Publics — TELEPHONE.png",
+      "alt": "Services Publics — TELEPHONE.png",
+      "mime": "image/webp",
+      "bytes": 241476,
+      "path": "1ad4019b8e6dffec2db43bdbb7bdf5a5.webp",
+      "created_at": "2026-10-26T02:57:49.216Z"
+    },
+    {
+      "id": "dda06b4100bdcd8d62f9193f9bb8a983",
+      "name": "Services Publics — Login.png",
+      "alt": "Services Publics — Login.png",
+      "mime": "image/webp",
+      "bytes": 199638,
+      "path": "dda06b4100bdcd8d62f9193f9bb8a983.webp",
+      "created_at": "2026-10-26T02:57:50.581Z"
+    },
+    {
+      "id": "7b80967ea24c37faac4d9fc103304dda",
+      "name": "PMUC — couverture",
+      "alt": "PMUC — couverture",
+      "mime": "image/webp",
+      "bytes": 273272,
+      "path": "7b80967ea24c37faac4d9fc103304dda.webp",
+      "created_at": "2026-10-26T02:57:50.809Z"
+    },
+    {
+      "id": "2f1a086ac03350ac0c53a44d9f711c63",
+      "name": "PMUC — Bon Week-end.jpg",
+      "alt": "PMUC — Bon Week-end.jpg",
+      "mime": "image/webp",
+      "bytes": 246498,
+      "path": "2f1a086ac03350ac0c53a44d9f711c63.webp",
+      "created_at": "2026-10-26T02:57:51.071Z"
+    },
+    {
+      "id": "5454cdb033180884ae12479952d35f13",
+      "name": "PMUC — JJ - 1.jpg",
+      "alt": "PMUC — JJ - 1.jpg",
+      "mime": "image/webp",
+      "bytes": 219602,
+      "path": "5454cdb033180884ae12479952d35f13.webp",
+      "created_at": "2026-10-26T02:57:51.369Z"
+    },
+    {
+      "id": "14780764708e579750e4b82663210d99",
+      "name": "PMUC — jour fr match.jpg",
+      "alt": "PMUC — jour fr match.jpg",
+      "mime": "image/webp",
+      "bytes": 312550,
+      "path": "14780764708e579750e4b82663210d99.webp",
+      "created_at": "2026-10-26T02:57:51.709Z"
+    },
+    {
+      "id": "5eb5f392d15b4f13d39a5dc4e54343e1",
+      "name": "HOMAY — couverture",
+      "alt": "HOMAY — couverture",
+      "mime": "image/webp",
+      "bytes": 385904,
+      "path": "5eb5f392d15b4f13d39a5dc4e54343e1.webp",
+      "created_at": "2026-10-26T02:57:53.175Z"
+    },
+    {
+      "id": "49c144daa91bb617e22e0f9b93f90626",
+      "name": "HOMAY — Logo 1.jpg",
+      "alt": "HOMAY — Logo 1.jpg",
+      "mime": "image/webp",
+      "bytes": 12990,
+      "path": "49c144daa91bb617e22e0f9b93f90626.webp",
+      "created_at": "2026-10-26T02:57:53.232Z"
+    },
+    {
+      "id": "5220f5461e208519e3f0885450a3cc99",
+      "name": "HOMAY — flyers 2.jpg",
+      "alt": "HOMAY — flyers 2.jpg",
+      "mime": "image/webp",
+      "bytes": 421418,
+      "path": "5220f5461e208519e3f0885450a3cc99.webp",
+      "created_at": "2026-10-26T02:57:54.326Z"
+    },
+    {
+      "id": "213aded7a17fa566f91575758e490c08",
+      "name": "HOMAY — flyers 4.jpg",
+      "alt": "HOMAY — flyers 4.jpg",
+      "mime": "image/webp",
+      "bytes": 391844,
+      "path": "213aded7a17fa566f91575758e490c08.webp",
+      "created_at": "2026-10-26T02:57:55.305Z"
+    },
+    {
+      "id": "fac7c003d6323106b3dbed8e6f8655c8",
+      "name": "Touristique Express — couverture",
+      "alt": "Touristique Express — couverture",
+      "mime": "image/webp",
+      "bytes": 223412,
+      "path": "fac7c003d6323106b3dbed8e6f8655c8.webp",
+      "created_at": "2026-10-26T02:57:57.068Z"
+    },
+    {
+      "id": "59be7f88eaded9df5bd918b261562dab",
+      "name": "Touristique Express — touristique app.jpg",
+      "alt": "Touristique Express — touristique app.jpg",
+      "mime": "image/webp",
+      "bytes": 205686,
+      "path": "59be7f88eaded9df5bd918b261562dab.webp",
+      "created_at": "2026-10-26T02:57:58.240Z"
+    },
+    {
+      "id": "69a576bc1e766b0746be425309f0e097",
+      "name": "Touristique Express — Ajouter un passager-1.png",
+      "alt": "Touristique Express — Ajouter un passager-1.png",
+      "mime": "image/webp",
+      "bytes": 17106,
+      "path": "69a576bc1e766b0746be425309f0e097.webp",
+      "created_at": "2026-10-26T02:57:58.331Z"
+    },
+    {
+      "id": "8e12f903615815bab38d99aa92080717",
+      "name": "Touristique Express — Aucun voyage trouvé.png",
+      "alt": "Touristique Express — Aucun voyage trouvé.png",
+      "mime": "image/webp",
+      "bytes": 16768,
+      "path": "8e12f903615815bab38d99aa92080717.webp",
+      "created_at": "2026-10-26T02:57:58.398Z"
+    },
+    {
+      "id": "90752a143086961b0c38dd02b6afce80",
+      "name": "Touristique Express — Confirmation de création de compte (1).png",
+      "alt": "Touristique Express — Confirmation de création de compte (1).png",
+      "mime": "image/webp",
+      "bytes": 109288,
+      "path": "90752a143086961b0c38dd02b6afce80.webp",
+      "created_at": "2026-10-26T02:57:58.754Z"
+    },
+    {
+      "id": "365ad8608968ee208e6e55417808fd27",
+      "name": "Maty Land — couverture",
+      "alt": "Maty Land — couverture",
+      "mime": "image/webp",
+      "bytes": 120590,
+      "path": "365ad8608968ee208e6e55417808fd27.webp",
+      "created_at": "2026-10-26T02:57:59.103Z"
+    },
+    {
+      "id": "3d0aa013e15d049d7d9295f93d657ed5",
+      "name": "Maty Land — Maty-Land-logo-retenu-v1.png",
+      "alt": "Maty Land — Maty-Land-logo-retenu-v1.png",
+      "mime": "image/webp",
+      "bytes": 52700,
+      "path": "3d0aa013e15d049d7d9295f93d657ed5.webp",
+      "created_at": "2026-10-26T02:57:59.506Z"
+    },
+    {
+      "id": "fe0cb9a8bb2a8ab26776bda0622eaa6a",
+      "name": "Maty Land — APERCU-SYSTEME.png",
+      "alt": "Maty Land — APERCU-SYSTEME.png",
+      "mime": "image/webp",
+      "bytes": 86046,
+      "path": "fe0cb9a8bb2a8ab26776bda0622eaa6a.webp",
+      "created_at": "2026-10-26T02:57:59.877Z"
+    },
+    {
+      "id": "67968bb1c574a3eb2549ba64d15c1f9d",
+      "name": "Maty Land — 01-cour-source.jpeg",
+      "alt": "Maty Land — 01-cour-source.jpeg",
+      "mime": "image/webp",
+      "bytes": 210322,
+      "path": "67968bb1c574a3eb2549ba64d15c1f9d.webp",
+      "created_at": "2026-10-26T02:58:00.208Z"
+    },
+    {
+      "id": "73a8e388cd3df053c29078c39546609b",
+      "name": "Maty Land — 03-poulet-source.jpeg",
+      "alt": "Maty Land — 03-poulet-source.jpeg",
+      "mime": "image/webp",
+      "bytes": 134126,
+      "path": "73a8e388cd3df053c29078c39546609b.webp",
+      "created_at": "2026-10-26T02:58:00.502Z"
+    },
+    {
+      "id": "4224b30f5a1213b58b09d945ebcc94ca",
+      "name": "ADWA Shop — couverture",
+      "alt": "ADWA Shop — couverture",
+      "mime": "image/webp",
+      "bytes": 108552,
+      "path": "4224b30f5a1213b58b09d945ebcc94ca.webp",
+      "created_at": "2026-10-26T02:58:01.568Z"
+    },
+    {
+      "id": "b01b68c9a563fa475cdda3f3324d3c37",
+      "name": "ADWA Shop — charte graphique.jpg",
+      "alt": "ADWA Shop — charte graphique.jpg",
+      "mime": "image/webp",
+      "bytes": 137376,
+      "path": "b01b68c9a563fa475cdda3f3324d3c37.webp",
+      "created_at": "2026-10-26T02:58:02.255Z"
+    },
+    {
+      "id": "2bf625d00587153b5d60edc40609aa6d",
+      "name": "ADWA Shop — Encaissement Total.jpg",
+      "alt": "ADWA Shop — Encaissement Total.jpg",
+      "mime": "image/webp",
+      "bytes": 30270,
+      "path": "2bf625d00587153b5d60edc40609aa6d.webp",
+      "created_at": "2026-10-26T02:58:02.340Z"
+    },
+    {
+      "id": "3e11c481b5d446167d6110859eb79375",
+      "name": "ADWA Shop — Encaisser une facture.jpg",
+      "alt": "ADWA Shop — Encaisser une facture.jpg",
+      "mime": "image/webp",
+      "bytes": 13542,
+      "path": "3e11c481b5d446167d6110859eb79375.webp",
+      "created_at": "2026-10-26T02:58:02.397Z"
+    },
+    {
+      "id": "2fe718b5858be295100b19e2df442647",
+      "name": "Equip4Safety — couverture",
+      "alt": "Equip4Safety — couverture",
+      "mime": "image/webp",
+      "bytes": 138558,
+      "path": "2fe718b5858be295100b19e2df442647.webp",
+      "created_at": "2026-10-26T02:58:02.805Z"
+    },
+    {
+      "id": "6e82e67f5c857fb0e914e32ec1b96ed5",
+      "name": "Equip4Safety — Dashboard user-1.jpg",
+      "alt": "Equip4Safety — Dashboard user-1.jpg",
+      "mime": "image/webp",
+      "bytes": 76522,
+      "path": "6e82e67f5c857fb0e914e32ec1b96ed5.webp",
+      "created_at": "2026-10-26T02:58:02.991Z"
+    },
+    {
+      "id": "3964b9af961d0b1de21beaee57200013",
+      "name": "Equip4Safety — fitre en pop up.jpg",
+      "alt": "Equip4Safety — fitre en pop up.jpg",
+      "mime": "image/webp",
+      "bytes": 50724,
+      "path": "3964b9af961d0b1de21beaee57200013.webp",
+      "created_at": "2026-10-26T02:58:03.123Z"
+    },
+    {
+      "id": "63175e4d8831760cdd5cb4266b5175bd",
+      "name": "Equip4Safety — Fitre recherce.jpg",
+      "alt": "Equip4Safety — Fitre recherce.jpg",
+      "mime": "image/webp",
+      "bytes": 40822,
+      "path": "63175e4d8831760cdd5cb4266b5175bd.webp",
+      "created_at": "2026-10-26T02:58:03.270Z"
+    },
+    {
+      "id": "b7c70ad3dd532ddb4bfd703fcd6f708e",
+      "name": "Machibel / Santardé — couverture",
+      "alt": "Machibel / Santardé — couverture",
+      "mime": "image/webp",
+      "bytes": 263168,
+      "path": "b7c70ad3dd532ddb4bfd703fcd6f708e.webp",
+      "created_at": "2026-10-26T02:58:04.059Z"
+    },
+    {
+      "id": "13a3e3ee391392baec026c088a186db9",
+      "name": "Machibel / Santardé — 530107172_122166423242436109_3219026219117542316_n.jpg_2K_202607061213.jpeg",
+      "alt": "Machibel / Santardé — 530107172_122166423242436109_3219026219117542316_n.jpg_2K_202607061213.jpeg",
+      "mime": "image/webp",
+      "bytes": 41070,
+      "path": "13a3e3ee391392baec026c088a186db9.webp",
+      "created_at": "2026-10-26T02:58:04.570Z"
+    },
+    {
+      "id": "c378bbb8ad1f6e128ebfd62dc6d889d3",
+      "name": "Machibel / Santardé — 87e65642-7352-49b6-a441-3b934219ebeb.jfif_2K_202607070019.jpeg",
+      "alt": "Machibel / Santardé — 87e65642-7352-49b6-a441-3b934219ebeb.jfif_2K_202607070019.jpeg",
+      "mime": "image/webp",
+      "bytes": 261978,
+      "path": "c378bbb8ad1f6e128ebfd62dc6d889d3.webp",
+      "created_at": "2026-10-26T02:58:05.223Z"
+    },
+    {
+      "id": "15b7d657c7fdd2926938515767256447",
+      "name": "Machibel / Santardé — photo produit.png",
+      "alt": "Machibel / Santardé — photo produit.png",
+      "mime": "image/webp",
+      "bytes": 146224,
+      "path": "15b7d657c7fdd2926938515767256447.webp",
+      "created_at": "2026-10-26T02:58:05.454Z"
+    },
+    {
+      "id": "fd095b5d3cd4b5a43fccdbf99a7896a3",
+      "name": "Jovite — atelier créatif",
+      "alt": "Jovite — atelier créatif · Image générée",
+      "mime": "image/webp",
+      "bytes": 114954,
+      "path": "fd095b5d3cd4b5a43fccdbf99a7896a3.webp",
+      "created_at": "2026-10-26T19:54:28.757Z"
+    },
+    {
+      "id": "b78900590a2919ff2636cd45618cc8bd",
+      "name": "Jovite — lumière cinéma",
+      "alt": "Jovite — lumière cinéma · Image générée",
+      "mime": "image/webp",
+      "bytes": 79102,
+      "path": "b78900590a2919ff2636cd45618cc8bd.webp",
+      "created_at": "2026-10-26T19:54:28.757Z"
+    },
+    {
+      "id": "695217696ffc7fece1d5a69f90e27ee0",
+      "name": "Jovite — scène en fauteuil",
+      "alt": "Jovite — scène en fauteuil · Image générée",
+      "mime": "image/webp",
+      "bytes": 125902,
+      "path": "695217696ffc7fece1d5a69f90e27ee0.webp",
+      "created_at": "2026-10-26T19:54:28.757Z"
+    },
+    {
+      "id": "a305ce74ffb6ff4bf76126a758512d53",
+      "name": "Jovite — portrait noir et blanc",
+      "alt": "Jovite — portrait noir et blanc · Image générée",
+      "mime": "image/webp",
+      "bytes": 134132,
+      "path": "a305ce74ffb6ff4bf76126a758512d53.webp",
+      "created_at": "2026-10-26T19:54:28.757Z"
+    },
+    {
+      "id": "561ff0200b82e6083401f568944004db",
+      "name": "Orbite — concept visuel généré",
+      "alt": "Orbite — concept visuel généré · Image générée",
+      "mime": "image/webp",
+      "bytes": 159262,
+      "path": "561ff0200b82e6083401f568944004db.webp",
+      "created_at": "2026-10-26T19:54:28.757Z"
+    },
+    {
+      "id": "ae8281bd4869abcbd2287523b17a5071",
+      "name": "Sillage — concept visuel généré",
+      "alt": "Sillage — concept visuel généré · Image générée",
+      "mime": "image/webp",
+      "bytes": 411636,
+      "path": "ae8281bd4869abcbd2287523b17a5071.webp",
+      "created_at": "2026-10-26T19:54:28.757Z"
+    },
+    {
+      "id": "1ab9003647a9f871955684f359af7bc3",
+      "name": "Écho — concept visuel généré",
+      "alt": "Écho — concept visuel généré · Image générée",
+      "mime": "image/webp",
+      "bytes": 146514,
+      "path": "1ab9003647a9f871955684f359af7bc3.webp",
+      "created_at": "2026-10-26T19:54:28.757Z"
+    }
+  ]
+}

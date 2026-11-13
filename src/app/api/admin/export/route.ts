@@ -1,0 +1,2 @@
+import {requireAdmin} from '@/lib/auth';import {allContent,listMedia,listInquiries} from '@/lib/content';
+export async function GET(){try{await requireAdmin();const[content,media,inquiries]=await Promise.all([allContent(),listMedia(),listInquiries()]);return Response.json({version:1,exportedAt:new Date().toISOString(),content,media,inquiries},{headers:{'Content-Disposition':'attachment; filename="portfolio-export.json"','Cache-Control':'no-store'}});}catch{return Response.json({error:'Accès non autorisé.'},{status:401});}}

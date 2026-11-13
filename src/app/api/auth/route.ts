@@ -1,0 +1,2 @@
+import { login,logout,verifyOrigin } from '@/lib/auth';
+export async function POST(request:Request){try{await verifyOrigin(request);const body=await request.json();if(body.action==='logout')await logout();else{if(typeof body.email!=='string'||typeof body.password!=='string'||body.password.length>200)throw new Error('Identifiants invalides.');await login(body.email,body.password);}return Response.json({ok:true});}catch(e){return Response.json({error:e instanceof Error?e.message:'Connexion impossible.'},{status:401});}}

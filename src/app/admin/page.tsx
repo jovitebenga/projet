@@ -1,0 +1,3 @@
+import { administrator } from '@/lib/auth';import { allContent,listMedia,listInquiries } from '@/lib/content';import { isLocal } from '@/lib/supabase';import { Login } from '@/components/admin/login';import { Dashboard } from '@/components/admin/dashboard';import './studio.css';
+export const dynamic='force-dynamic';
+export default async function Admin(){const user=await administrator();if(!user)return <Login local={isLocal()}/>;const[content,media,inquiries]=await Promise.all([allContent(),listMedia(),listInquiries()]);return <Dashboard initial={{content,media,inquiries}} user={user} local={isLocal()}/>;}

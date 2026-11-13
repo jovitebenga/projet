@@ -1,0 +1,2 @@
+import fs from 'node:fs';import path from 'node:path';import {db,dataRoot} from '../src/lib/local-db';
+const destination=path.join(dataRoot,'backups',new Date().toISOString().replace(/[:.]/g,'-'));fs.mkdirSync(destination,{recursive:true});const sql=path.join(destination,'studio.sqlite');db().prepare('VACUUM INTO ?').run(sql);fs.cpSync(path.join(dataRoot,'media'),path.join(destination,'media'),{recursive:true});console.log('Sauvegarde créée : '+destination);
